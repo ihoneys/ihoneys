@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m a front-end developer 
+- 🌱I’m a front-end developer 
 
