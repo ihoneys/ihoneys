@@ -22,6 +22,14 @@ Here are some ideas to get you started:
 -->
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ihoneys)](https://github.com/anuraghazra/github-readme-stats) -->
 ![os](https://img.shields.io/badge/os-%20macOS-light) [![](https://img.shields.io/badge/ide-visual_studio_code-blue)](https://code.visualstudio.com/)
+**Languages:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ihoneys&theme=radical&show_icons=true)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ihoneys&langs_count=8)](https://github.com/ihoneys)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ihoneys&theme=react&card_width=100&repo=react-ts-redux)](https://github.com/ihoneys/react-ts-redux)
