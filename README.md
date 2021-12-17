@@ -26,3 +26,4 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ihoneys&theme=react&repo=react-ts-redux)](https://github.com/ihoneys/react-ts-redux)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ihoneys&langs_count=8)](https://github.com/ihoneys)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ihoneys&theme=react)](https://github.com/ihoneys)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ihoneys)](https://github.com/anuraghazra/github-readme-stats)
