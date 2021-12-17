@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 [![Github stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&include_all_commits=true)](https://github.com/ihoneys/github-readme-stats)
 -->
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ihoneys)](https://github.com/anuraghazra/github-readme-stats) -->
+<img width="90%" src="https://s2.loli.net/2021/12/15/vIrYARlq1ZziCn5.png" />
 ![os](https://img.shields.io/badge/os-%20macOS-light) [![](https://img.shields.io/badge/ide-visual_studio_code-blue)](https://code.visualstudio.com/)
 **Languages:**  
 
