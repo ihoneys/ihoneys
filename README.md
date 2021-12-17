@@ -24,3 +24,4 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ihoneys&theme=radical&show_icons=true)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ihoneys&repo=react-ts-redux)](https://github.com/ihoneys/react-ts-redux)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ihoneys&langs_count=8)](https://github.com/ihoneys)
