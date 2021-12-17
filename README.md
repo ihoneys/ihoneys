@@ -22,7 +22,10 @@ Here are some ideas to get you started:
 -->
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ihoneys)](https://github.com/anuraghazra/github-readme-stats) -->
 <img width="90%" src="https://s2.loli.net/2021/12/15/vIrYARlq1ZziCn5.png" />
-![os](https://img.shields.io/badge/os-%20macOS-light) [![](https://img.shields.io/badge/ide-visual_studio_code-blue)](https://code.visualstudio.com/)
+
+<!-- ![os](https://img.shields.io/badge/os-%20macOS-light) 
+[![](https://img.shields.io/badge/ide-visual_studio_code-blue)](https://code.visualstudio.com/) -->
+
 <br>
 **Languages:**  
 
