@@ -39,4 +39,6 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ihoneys&langs_count=8)](https://github.com/ihoneys)
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ihoneys&theme=react&card_width=100&repo=react-ts-redux)](https://github.com/ihoneys/react-ts-redux)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ihoneys&theme=flag-india&card_width=100&repo=at-hengshui-mobile-h5)](https://github.com/ihoneys/at-hengshui-mobile-h5) -->
-<img align="right" alt="weizhanzhan" width="400px" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
+<!-- <img align="right" alt="weizhanzhan" width="400px" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" /> -->
+<img alt="weizhanzhan" width="400px" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
+
