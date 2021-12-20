@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ![os](https://img.shields.io/badge/os-%20macOS-light) 
 [![](https://img.shields.io/badge/ide-visual_studio_code-blue)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/IDE-WebStorm-blue?style=flat-square&logo=jetbrains&logoColor=ffffff)](https://www.jetbrains.com/webstorm/)
-[![](https://img.shields.io/badge/IDE-Clion-blue?style=flat-square&logo=jetbrains&logoColor=ffffff)](https://www.jetbrains.com/clion/)
+[![](https://img.shields.io/badge/Intellij-Idea-blue?style=flat-square&logo=intellijidea&logoColor=ffffff)](https://www.jetbrains.com/idea/)
 
 
 **Languages:** <br>
