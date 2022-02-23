@@ -38,12 +38,11 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
 
 
-| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ihoneys&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ihoneys&layout=compact&theme=tokyonight&langs_count=10) |
+| <img alt="weizhanzhan" width="400px" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" /> | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ihoneys&layout=compact&theme=tokyonight&langs_count=10) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ihoneys&theme=radical&show_icons=true)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ihoneys&langs_count=8)](https://github.com/ihoneys) -->
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ihoneys&theme=react&card_width=100&repo=react-ts-redux)](https://github.com/ihoneys/react-ts-redux)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ihoneys&theme=flag-india&card_width=100&repo=at-hengshui-mobile-h5)](https://github.com/ihoneys/at-hengshui-mobile-h5) -->
 <!-- <img align="right" alt="weizhanzhan" width="400px" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" /> -->
-<img alt="weizhanzhan" width="400px" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
 
